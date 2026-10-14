@@ -13,7 +13,7 @@ git clone https://github.com/firemariovn/sdl3-sample --depth=1 --recurse-submodu
 cd sdl3-sample
 cmake -S . -B build
 ```
-You can also use an init script inside [`config/`](config/). Then open the IDE project inside `build/` 
+You can also SHOULD use an init script inside [`config/`](config/). Then open the IDE project inside `build/` 
 (If you had CMake generate one) and run!
 
 ## Supported Platforms
